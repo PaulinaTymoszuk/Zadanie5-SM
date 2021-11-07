@@ -1,0 +1,33 @@
+----------Po pierwszym uruchomieniu aplikacji----------
+2021-11-07 20:43:18.245 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-07 20:43:18.411 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-11-07 20:43:18.412 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+----------Po wciśnięciu przycisku Cofnij----------
+2021-11-07 20:48:35.931 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-07 20:48:37.055 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-07 20:48:37.059 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+
+----------Po ponownym uruchomieniu aplikacji----------
+2021-11-07 20:52:00.862 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-07 20:52:01.010 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-11-07 20:52:01.011 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+----------Po wciśnięciu przycisku ekranu głównego Home----------
+2021-11-07 20:53:04.577 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-07 20:53:05.571 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-07 20:53:05.574 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda onSaveInstanceState
+
+----------Po powrocie do aplikacji z listy ostatnio używanych aplikacjie----------
+2021-11-07 20:54:40.763 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-07 20:54:41.646 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-07 20:54:41.649 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda onSaveInstanceState
+
+----------Po obróceniu ekranu----------
+2021-11-07 20:57:43.834 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-07 20:57:43.841 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-07 20:57:43.841 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda onSaveInstanceState
+2021-11-07 20:57:43.842 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+2021-11-07 20:57:43.913 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-07 20:57:43.968 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-11-07 20:57:43.969 31753-31753/com.example.quiz D/MainActivity: Wywołana została metoda cyklu życia: onResume
